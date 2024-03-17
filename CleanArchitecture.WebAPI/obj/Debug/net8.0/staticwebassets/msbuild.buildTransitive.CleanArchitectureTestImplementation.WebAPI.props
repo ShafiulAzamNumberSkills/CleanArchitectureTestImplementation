@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CleanArchitectureTestImplementation.WebAPI.props" />
+</Project>
