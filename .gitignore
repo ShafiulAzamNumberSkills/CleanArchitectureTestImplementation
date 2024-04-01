@@ -327,3 +327,30 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/.vs/CleanArchitectureTestImplementation/config/applicationhost.config
+/.vs/CleanArchitectureTestImplementation/DesignTimeBuild/.dtbcache.v2
+/.vs/CleanArchitectureTestImplementation/FileContentIndex/5f47a75d-2292-49f4-8107-97c9d85a14b5.vsidx
+/.vs/CleanArchitectureTestImplementation/FileContentIndex/6bca1371-5ca5-4342-a2e8-f510cc9f8728.vsidx
+/.vs/CleanArchitectureTestImplementation/FileContentIndex/8d26ecd7-0b3a-4162-97e7-013ff3f76c2b.vsidx
+/.vs/CleanArchitectureTestImplementation/FileContentIndex/d6ead27b-2c41-4365-bc6a-1f2628b20aa8.vsidx
+/.vs/CleanArchitectureTestImplementation/FileContentIndex/f823c3d6-a148-43dd-8604-bdd8eac7c133.vsidx
+/.vs/CleanArchitectureTestImplementation/v17/TestStore/0/011.testlog
+/.vs/CleanArchitectureTestImplementation/v17/TestStore/0/testlog.manifest
+/.vs/CleanArchitectureTestImplementation/v17/.futdcache.v2
+/.vs/CleanArchitectureTestImplementation/v17/.suo
+/.vs/ProjectEvaluation/cleanarchitecturetestimplementation.metadata.v7.bin
+/.vs/ProjectEvaluation/cleanarchitecturetestimplementation.projects.v7.bin
+/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfo.cs
+/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/CleanArchitecture.Application.UnitTest/bin/Debug/net8.0/CoverletSourceRootsMapping_CleanArchitecture.Application.UnitTest
+/CleanArchitecture.Application.UnitTest/obj/Debug/net8.0/CleanArchitecture.Application.UnitTest.AssemblyInfo.cs
+/CleanArchitecture.Application.UnitTest/obj/Debug/net8.0/CleanArchitecture.Application.UnitTest.AssemblyInfoInputs.cache
+/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/CleanArchitecture.Infrastructure/obj/Debug/net8.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/CleanArchitecture.Infrastructure.UnitTest/bin/Debug/net8.0/CoverletSourceRootsMapping_CleanArchitecture.Infrastructure.UnitTest
+/CleanArchitecture.Infrastructure.UnitTest/obj/Debug/net8.0/CleanArchitecture.Infrastructure.UnitTest.AssemblyInfo.cs
+/CleanArchitecture.Infrastructure.UnitTest/obj/Debug/net8.0/CleanArchitecture.Infrastructure.UnitTest.AssemblyInfoInputs.cache
+/CleanArchitecture.WebAPI/obj/Debug/net8.0/CleanArchitecture.WebAPI.AssemblyInfo.cs
+/CleanArchitecture.WebAPI/obj/Debug/net8.0/CleanArchitecture.WebAPI.AssemblyInfoInputs.cache
