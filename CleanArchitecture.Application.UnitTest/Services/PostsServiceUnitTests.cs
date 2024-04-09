@@ -1,8 +1,8 @@
 using AutoFixture;
+using CleanArchitecture.Application.IRepositories;
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.ViewModels;
-using CleanArchitecture.Infrastructure.IRepositories;
 using FluentAssertions;
 using Moq;
 

@@ -1,7 +1,7 @@
 using AutoFixture;
-using CleanArchitecture.Domain.Data;
+using CleanArchitecture.Application.IRepositories;
 using CleanArchitecture.Domain.Entities;
-using CleanArchitecture.Infrastructure.IRepositories;
+using CleanArchitecture.Infrastructure.Data;
 using CleanArchitecture.Infrastructure.Repositories;
 using FluentAssertions;
 using Microsoft.EntityFrameworkCore;

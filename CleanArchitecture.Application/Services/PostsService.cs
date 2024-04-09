@@ -1,7 +1,7 @@
-﻿using CleanArchitecture.Application.IServices;
+﻿using CleanArchitecture.Application.IRepositories;
+using CleanArchitecture.Application.IServices;
 using CleanArchitecture.Domain.Entities;
 using CleanArchitecture.Domain.ViewModels;
-using CleanArchitecture.Infrastructure.IRepositories;
 
 namespace CleanArchitecture.Application.Services
 {
@@ -73,7 +73,10 @@ namespace CleanArchitecture.Application.Services
 
             }
 
-            bool result = await _postsRepository.UpdatePost(objPost);
+            post.Title = objPost.Title; 
+            post.Description = objPost.Description;
+
+            bool result = await _postsRepository.UpdatePost(post);
 
             if (!result)
             {

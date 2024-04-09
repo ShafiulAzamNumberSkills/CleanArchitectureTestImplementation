@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Domain.Data;
+﻿using CleanArchitecture.Application.IRepositories;
 using CleanArchitecture.Domain.Entities;
-using CleanArchitecture.Infrastructure.IRepositories;
+using CleanArchitecture.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.Infrastructure.Repositories

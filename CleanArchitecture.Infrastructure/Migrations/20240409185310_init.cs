@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace CleanArchitecture.Domain.Migrations
+namespace CleanArchitecture.Infrastructure.Migrations
 {
     /// <inheritdoc />
     public partial class init : Migration
